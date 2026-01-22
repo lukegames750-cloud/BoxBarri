@@ -1,0 +1,9 @@
+{
+  "name": "App BarriBox",
+  "description": "Una aplicación de reparto local de última milla que conecta puntos de recogida con vecinos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
